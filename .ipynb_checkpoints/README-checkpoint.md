@@ -1,5 +1,6 @@
+# Time_Series
 
-# Time Series Analysis
+## Time Series Analysis
 
 ### Data Analysis
 We examined the Canadian dollar-Yen (cad-Jpy) exchange rates for the period 1992 - 2020 to determine whether there is any predictable behaviour.
@@ -23,8 +24,6 @@ ARMA 5-day Returns forecast
 ![ARMA 5 day returns forecast](Images/ARMA_5day_forecast.PNG)
 
 The  ARMA used an order of (2,1). Except for the AR lag 2, the p-values were below 0.05  This model was a good fit.
-
-
 
 ARIMA 5-day Futures Price Forecast
 ![ARIMA 5 day Forecast](Images/ARIMA_5day_forecast.PNG)
